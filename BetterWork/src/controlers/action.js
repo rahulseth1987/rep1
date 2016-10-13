@@ -1,4 +1,4 @@
-var action = function() {
+var action = function(){
 	
 	this.browserLaunch = function(url) {
 		browser.get(url);
