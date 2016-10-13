@@ -17,7 +17,7 @@ this.elementByModel = function(enterValue) {
 	
 	this.findElement = function(element) {
 		browser.isElementPresent(element);
-	}
+	 }
 	
 };
 
